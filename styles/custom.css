@@ -1,0 +1,66 @@
+.titulo {
+  margin-top: 2rem;
+  text-align: center;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  color: #58ebdf;
+  text-shadow: -1px 0 #414d68, 0 1px #414d68, 1px 0 #414d68, 0 -1px #414d68,
+    -2px 2px 0 #414d68, 2px 2px 0 #414d68, 1px 1px #414d68, 2px 2px #414d68,
+    3px 3px #414d68, 4px 4px #414d68, 5px 5px #414d68;
+}
+
+.subtitulo {
+  text-align: center;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+.menu {
+  float: left;
+  width: 23%;
+}
+
+.texto {
+  float: left;
+  width: 72%;
+  text-align: justify;
+  margin-left: 5%;
+}
+
+.titulomenu {
+  margin-top: 0;
+  background-color: rgb(15, 148, 201);
+  text-align: center;
+  margin-bottom: 2px;
+}
+
+.entradainicio {
+  text-decoration: underline;
+  margin-bottom: 1px;
+  color: #4d5497;
+  cursor: pointer;
+}
+
+.entradamenu {
+  margin-bottom: 0px;
+  color: #022c7a;
+  text-decoration: none;
+}
+
+.secundariamenu {
+  text-indent: 1em;
+  color: #022c7a;
+  margin-top: 0px;
+  margin-bottom: 1px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.tituloarticulo {
+  color: #022c7a;
+  text-decoration: underline;
+  font-weight: bold;
+  text-align: center;
+}
