@@ -25,7 +25,7 @@ include './views/menu.php';
   <br><br>
   <figure>
     <img src="./images/gutenberg.png" alt="gutenberg">
-    <figcaption>hhLa página de búsqueda de Project Gutenberg.</figcaption>
+    <figcaption>La página de búsqueda de Project Gutenberg.</figcaption>
   </figure>
   <br><br>
   <figure>
